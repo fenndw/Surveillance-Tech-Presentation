@@ -5,7 +5,7 @@
 ---
 ## Overview
 
-This presentation took roughly 20 minutes to perform - had high interaction - and a 10 minute Q&A.
+This presentation took roughly 20 minutes to perform with high audience interaction and a 10 minute Q&A.
 
 [View the Presentation (PDF)](./INFT3075_EmergingTech_FennW_SurveillanceTech_W0500000.pdf)
 
